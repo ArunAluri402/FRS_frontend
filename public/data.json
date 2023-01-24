@@ -1,0 +1,42 @@
+[
+  {
+    "UniqId": "46fd1dbb85402eb55a40a73c8070f1bf",
+    "Source": "Chennai",
+    "Layover1": "Delhi",
+    "Destination": "Nagpur",
+    "FlightOperator": "Air India|Air India",
+    "FlightNumber": "AI-43|AI-469",
+    "TotalTime": "10h 35m",
+    "NumberOfStops": "1"
+  },
+  {
+    "UniqId": "46fd1dbb85402eb55a40a73c807055f1bf",
+    "Source": "Chennai",
+    "Layover1": "Hyderabad",
+    "Destination": "Hyderabad",
+    "FlightOperator": "Air Asia|Air Asia",
+    "FlightNumber": "AA-44|AA-466",
+    "TotalTime": "2h 35m",
+    "NumberOfStops": "1"
+  },
+  {
+    "UniqId": "46f66bb85402eb55a40a73c8070f1bf",
+    "Source": "Delhi",
+    "Layover1": "Hyderabad",
+    "Destination": "Hyderabad",
+    "FlightOperator": "INDIGO|INDIGO",
+    "FlightNumber": "I-45|I-461",
+    "TotalTime": "4h 35m",
+    "NumberOfStops": "1"
+  },
+  {
+    "UniqId": "46fd1dbb5555eb55a40a73c8070f1bf",
+    "Source": "Hyderabad",
+    "Layover1": "Delhi",
+    "Destination": "Delhi",
+    "FlightOperator": "Air India|Air India",
+    "FlightNumber": "AI-66|AI-499",
+    "TotalTime": "10h 35m",
+    "NumberOfStops": "1"
+  }
+]

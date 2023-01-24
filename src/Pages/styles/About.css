@@ -1,0 +1,13 @@
+.about_Section {
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 10px 20px;
+  width: 75%;
+  margin: auto;
+  border-radius: 5px;
+}
+p {
+  text-transform: capitalize;
+  text-align: left;
+  font-weight: 500;
+  font-size: 16px;
+}
